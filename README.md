@@ -1,2 +1,1 @@
-# HarukiYqM.github.io
-blog
+# binhu7.github.io
