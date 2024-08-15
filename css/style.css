@@ -1063,8 +1063,8 @@ textarea {
 
 .profile__avatar {
 	display: inline-block;
-	width: 96px;
-	height: 96px;
+	width: 196px;
+	height: 196px;
 	background-size: cover;
 	border: 2px solid #fff;
 	-moz-border-radius: 50%;
