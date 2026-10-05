@@ -1328,3 +1328,50 @@ textarea {
 		font-size: .6875rem;
 	}
 }
+
+/* Compact shipped feature entry with plain product and video links. */
+.tech-transfer-row h3 {
+	font-size: 18px;
+	margin-bottom: 8px;
+}
+
+.tech-transfer-row p {
+	margin-bottom: 8px;
+}
+
+.tech-transfer-links a {
+	text-decoration: underline;
+	text-underline-offset: 2px;
+}
+
+.tech-transfer-row .shipped-feature-icon {
+	width: 24px;
+	height: 24px;
+	margin-left: 4px;
+	vertical-align: middle;
+}
+
+.intro-company-icon {
+	width: 18px;
+	height: 18px;
+	max-width: none;
+	object-fit: contain;
+	vertical-align: -3px;
+}
+
+.intro-ifp-icon {
+	display: inline-block;
+	padding: 0 2px;
+	border: 1px solid #eee;
+	border-radius: 3px;
+	background: #fff;
+	color: #ff8c00;
+	font-family: Georgia, serif;
+	font-size: 12px;
+	line-height: 18px;
+	vertical-align: baseline;
+}
+
+.intro-company-link {
+	white-space: nowrap;
+}
